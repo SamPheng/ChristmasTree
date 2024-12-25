@@ -9,7 +9,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open Tree.html",
-            "file": "e:\\Codes\\ChristmasTree\\Tree.html"
+            "file": "e:\\Codes\\ChristmasTree\\index.html"
         }
     ]
 }
